@@ -10,9 +10,11 @@ def main():
     data = get_data()
     print(data)
     display_subjects(data)
+
+
 def get_data():
     """Read data from file formatted like: subject,lecturer,number of students."""
-    data=[]
+    data = []
     input_file = open(FILENAME)
     for line in input_file:
         print(line)  # See what a line looks like
@@ -27,9 +29,11 @@ def get_data():
     input_file.close()
     return data
 
+
 def display_subjects(data):
     """Display data nicely."""
     for subject in data:
-        print("{} is taught by {:12} and has {:3} students".format(subject[0],subject[1],subject[2]))
+        print("{} is taught by {:12} and has {:3} students".format(subject[0], subject[1], subject[2]))
+
 
 main()
