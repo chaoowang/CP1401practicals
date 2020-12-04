@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a520f88-ae9f-4955-ba4c-3a904eb37d7f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/prac_04/lists_warmup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +63,7 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.lists_warmup">
-    <configuration name="broken_score" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="list_comprehension" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP1404practicals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,12 +71,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_03/broken_score.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_04/list_comprehension.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="list_exercises" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP1404practicals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,12 +93,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_02/files.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_04/list_exercises.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="password_checker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="quick_picks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP1404practicals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,12 +137,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_02/password_checker.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_04/quick_picks.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="temperatures" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="subject_reader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP1404practicals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,12 +159,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_03/temperatures.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_04/subject_reader.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,10 +176,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.lists_warmup" />
-        <item itemvalue="Python.broken_score" />
-        <item itemvalue="Python.temperatures" />
-        <item itemvalue="Python.password_checker" />
-        <item itemvalue="Python.files" />
+        <item itemvalue="Python.quick_picks" />
+        <item itemvalue="Python.list_comprehension" />
+        <item itemvalue="Python.list_exercises" />
+        <item itemvalue="Python.subject_reader" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +198,7 @@
       <workItem from="1605882569692" duration="8474000" />
       <workItem from="1606440524208" duration="4529000" />
       <workItem from="1606573670360" duration="39000" />
-      <workItem from="1607048300605" duration="680000" />
+      <workItem from="1607048300605" duration="7080000" />
     </task>
     <task id="LOCAL-00001" summary="file added">
       <created>1606441582755</created>
@@ -270,7 +270,84 @@
       <option name="project" value="LOCAL" />
       <updated>1606447955909</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add lists_warmup.py">
+      <created>1607049138305</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1607049138305</updated>
+    </task>
+    <task id="LOCAL-00012" summary="finish list_warmup.py">
+      <created>1607051497624</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1607051497624</updated>
+    </task>
+    <task id="LOCAL-00013" summary="initial commit">
+      <created>1607051519939</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1607051519939</updated>
+    </task>
+    <task id="LOCAL-00014" summary="refactor the month variable and printing function">
+      <created>1607059184951</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1607059184951</updated>
+    </task>
+    <task id="LOCAL-00015" summary="initial commit">
+      <created>1607059350802</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1607059350802</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add function">
+      <created>1607069220297</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1607069220297</updated>
+    </task>
+    <task id="LOCAL-00017" summary="add list exercise">
+      <created>1607070544994</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1607070544994</updated>
+    </task>
+    <task id="LOCAL-00018" summary="initial commit">
+      <created>1607070620676</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1607070620676</updated>
+    </task>
+    <task id="LOCAL-00019" summary="complete TODO">
+      <created>1607071648426</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1607071648426</updated>
+    </task>
+    <task id="LOCAL-00020" summary="add quick_picks.py">
+      <created>1607072427010</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1607072427010</updated>
+    </task>
+    <task id="LOCAL-00021" summary="reformat code">
+      <created>1607072804716</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1607072804716</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,7 +375,16 @@
     <MESSAGE value="Refactor temperatures.py to use functions" />
     <MESSAGE value="add broken_score.py" />
     <MESSAGE value="Refactor broken_score.py to use function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactor broken_score.py to use function" />
+    <MESSAGE value="add lists_warmup.py" />
+    <MESSAGE value="finish list_warmup.py" />
+    <MESSAGE value="refactor the month variable and printing function" />
+    <MESSAGE value="add function" />
+    <MESSAGE value="add list exercise" />
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="complete TODO" />
+    <MESSAGE value="add quick_picks.py" />
+    <MESSAGE value="reformat code" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
     <state x="452" y="244" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605170873513">
@@ -313,35 +399,35 @@
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="447" y="147" key="Github.UntrackedFilesDialog/0.23.1440.826@0.23.1440.826" timestamp="1606440996669" />
-    <state width="1358" height="192" key="GridCell.Tab.0.bottom" timestamp="1607048812445">
+    <state width="1358" height="192" key="GridCell.Tab.0.bottom" timestamp="1607072750729">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state width="1398" height="199" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605897661051" />
-    <state width="1358" height="192" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1607048812445" />
+    <state width="1358" height="192" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1607072750729" />
     <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1605898547705" />
     <state width="1358" height="249" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1605863358841" />
     <state width="1358" height="192" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1606448941153" />
-    <state width="1358" height="192" key="GridCell.Tab.0.center" timestamp="1607048812444">
+    <state width="1358" height="192" key="GridCell.Tab.0.center" timestamp="1607072750728">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state width="1398" height="199" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605897661049" />
-    <state width="1358" height="192" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1607048812444" />
+    <state width="1358" height="192" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1607072750728" />
     <state width="1398" height="303" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1605898547704" />
     <state width="1358" height="249" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1605863358840" />
     <state width="1358" height="192" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1606448941152" />
-    <state width="1358" height="192" key="GridCell.Tab.0.left" timestamp="1607048812443">
+    <state width="1358" height="192" key="GridCell.Tab.0.left" timestamp="1607072750727">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state width="1398" height="199" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605897661048" />
-    <state width="1358" height="192" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1607048812443" />
+    <state width="1358" height="192" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1607072750727" />
     <state width="1398" height="303" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1605898547704" />
     <state width="1358" height="249" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1605863358839" />
     <state width="1358" height="192" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1606448941151" />
-    <state width="1358" height="192" key="GridCell.Tab.0.right" timestamp="1607048812444">
+    <state width="1358" height="192" key="GridCell.Tab.0.right" timestamp="1607072750728">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state width="1398" height="199" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605897661050" />
-    <state width="1358" height="192" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1607048812444" />
+    <state width="1358" height="192" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1607072750728" />
     <state width="1398" height="303" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1605898547705" />
     <state width="1358" height="249" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1605863358840" />
     <state width="1358" height="192" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1606448941152" />
@@ -388,14 +474,19 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CP1401practicals$randoms.coverage" NAME="randoms Coverage Results" MODIFIED="1605841484148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
+    <SUITE FILE_PATH="coverage/CP1404practicals$quick_picks.coverage" NAME="quick_picks Coverage Results" MODIFIED="1607072377608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_04" />
+    <SUITE FILE_PATH="coverage/CP1404practicals$subject_reader.coverage" NAME="subject_reader Coverage Results" MODIFIED="1607069179716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_04" />
     <SUITE FILE_PATH="coverage/CP1401practicals$files.coverage" NAME="files Coverage Results" MODIFIED="1605894367416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
-    <SUITE FILE_PATH="coverage/CP1404practicals$lists_warmup.coverage" NAME="lists_warmup Coverage Results" MODIFIED="1607048945947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_04" />
+    <SUITE FILE_PATH="coverage/CP1404practicals$lists_warmup.coverage" NAME="lists_warmup Coverage Results" MODIFIED="1607072750713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_04" />
     <SUITE FILE_PATH="coverage/CP1401practicals$string_formatting_examples.coverage" NAME="string_formatting_examples Coverage Results" MODIFIED="1605839522907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
+    <SUITE FILE_PATH="coverage/CP1404practicals$list_exercises.coverage" NAME="list_exercises Coverage Results" MODIFIED="1607070352571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_04" />
     <SUITE FILE_PATH="coverage/CP1401practicals$exceptions_to_complete.coverage" NAME="exceptions_to_complete Coverage Results" MODIFIED="1605887005021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
     <SUITE FILE_PATH="coverage/CP1401practicals$exceptions_demo.coverage" NAME="exceptions_demo Coverage Results" MODIFIED="1605885525326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
     <SUITE FILE_PATH="coverage/CP1401practicals$capitalist_conrad.coverage" NAME="capitalist_conrad Coverage Results" MODIFIED="1605883090462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
+    <SUITE FILE_PATH="coverage/CP1404practicals$list_comprehension.coverage" NAME="list_comprehension Coverage Results" MODIFIED="1607071597712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_04" />
     <SUITE FILE_PATH="coverage/CP1401practicals$loops.coverage" NAME="loops Coverage Results" MODIFIED="1605165214778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_01" />
     <SUITE FILE_PATH="coverage/CP1401practicals$broken_score.coverage" NAME="broken_score Coverage Results" MODIFIED="1606447873313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_03" />
+    <SUITE FILE_PATH="coverage/CP1404practicals$total_income.coverage" NAME="total_income Coverage Results" MODIFIED="1607058938855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_04" />
     <SUITE FILE_PATH="coverage/CP1401practicals$shop_calculator.coverage" NAME="shop_calculator Coverage Results" MODIFIED="1605170802714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_01" />
     <SUITE FILE_PATH="coverage/CP1401practicals$password_checker.coverage" NAME="password_checker Coverage Results" MODIFIED="1606444741637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
     <SUITE FILE_PATH="coverage/CP1401practicals$temperatures.coverage" NAME="temperatures Coverage Results" MODIFIED="1606445544552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_03" />
