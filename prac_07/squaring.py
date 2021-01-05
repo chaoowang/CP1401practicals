@@ -9,6 +9,7 @@ from kivy.lang import Builder
 
 class SquareNumberApp(App):
     """ SquareNumberApp is a Kivy App for squaring a number """
+
     def build(self):
         """ build the Kivy app from the kv file """
         self.title = "Square Number"
