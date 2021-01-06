@@ -5,6 +5,7 @@ BoxLayout:
         TextInput:
             id:input_number
             multiline: False
+            on_text: app.convert(input_number.text)
         BoxLayout:
             orientation: "vertical"
             Button:
@@ -13,8 +14,7 @@ BoxLayout:
             Button:
                 text: "Down"
                 on_press: app.miles_decrease(input_number.text)
-    Button:
+    Label:
         text:"Convert miles to km"
-        on_press: app.convert(input_number.text)
     Label:
         text: app.result_km
