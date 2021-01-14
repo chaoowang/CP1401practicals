@@ -11,7 +11,7 @@ class Unreliable_car(Car):
 
     def drive(self, distance):
         if self.reliability <= randint(0, 100):
-            distance_drive=0
+            distance_drive = 0
             print("Reliability to low to drive.")
         else:
             distance_drive = super().drive(distance)
