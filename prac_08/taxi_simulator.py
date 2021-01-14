@@ -39,5 +39,6 @@ def main():
     for i, taxi in enumerate(taxis):
         print("{} - {}".format(i, taxi))
 
+
 if __name__ == '__main__':
     main()
