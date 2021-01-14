@@ -1,7 +1,7 @@
 from prac_08.taxi import Taxi
 
 
-class SliverServiceTaxi(Taxi):
+class SilverServiceTaxi(Taxi):
     flagfall = 4.5
 
     def __init__(self, name, fuel, fanciness):

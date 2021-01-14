@@ -1,8 +1,8 @@
-from prac_08.sliver_service_taxi import SliverServiceTaxi
+from prac_08.silver_service_taxi import SilverServiceTaxi
 
 
 def main():
-    test_car = SliverServiceTaxi("fancy car", 20, 2)
+    test_car = SilverServiceTaxi("fancy car", 20, 2)
     test_car.drive(18)
     print(test_car)
     current_fare = test_car.get_fare()
