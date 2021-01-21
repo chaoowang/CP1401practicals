@@ -4,10 +4,6 @@
     <expand>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
       <path>
@@ -16,11 +12,17 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a520f88-ae9f-4955-ba4c-3a904eb37d7f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac_09/cleanup_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/prac_09/cleanup_files.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +37,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="56514f1352a8b86300962566ca1202ea281595de" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="JupyterTrust" id="b222680d-f513-4863-95f8-2149eecb2631" />
@@ -62,8 +70,8 @@
       <recent name="$PROJECT_DIR$/prac_01" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lists_warmup">
-    <configuration name="list_comprehension" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.cleanup_files">
+    <configuration name="cleanup_files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP1404practicals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,12 +79,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_09" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_04/list_comprehension.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_09/cleanup_files.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list_exercises" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="os_demos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP1404practicals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,12 +101,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_09" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_04/list_exercises.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_09/os_demos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lists_warmup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="silver_service_taxi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP1404practicals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,12 +123,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_08" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_04/lists_warmup.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_08/silver_service_taxi.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="quick_picks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="silver_service_taxi_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP1404practicals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,12 +145,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_08" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_04/quick_picks.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_08/silver_service_taxi_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="subject_reader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="taxi_simulator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP1404practicals" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,12 +167,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_08" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_04/subject_reader.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_08/taxi_simulator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lists_warmup" />
-        <item itemvalue="Python.quick_picks" />
-        <item itemvalue="Python.list_comprehension" />
-        <item itemvalue="Python.list_exercises" />
-        <item itemvalue="Python.subject_reader" />
+        <item itemvalue="Python.cleanup_files" />
+        <item itemvalue="Python.os_demos" />
+        <item itemvalue="Python.taxi_simulator" />
+        <item itemvalue="Python.silver_service_taxi_test" />
+        <item itemvalue="Python.silver_service_taxi" />
       </list>
     </recent_temporary>
   </component>
@@ -199,6 +207,8 @@
       <workItem from="1606440524208" duration="4529000" />
       <workItem from="1606573670360" duration="39000" />
       <workItem from="1607048300605" duration="7080000" />
+      <workItem from="1610675611176" duration="22000" />
+      <workItem from="1611127508318" duration="8127000" />
     </task>
     <task id="LOCAL-00001" summary="file added">
       <created>1606441582755</created>
@@ -347,7 +357,77 @@
       <option name="project" value="LOCAL" />
       <updated>1607072804716</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="add fare">
+      <created>1610637721952</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1610637721952</updated>
+    </task>
+    <task id="LOCAL-00023" summary="update get_fare">
+      <created>1610637776838</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1610637776838</updated>
+    </task>
+    <task id="LOCAL-00024" summary="fix typo">
+      <created>1610638198716</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1610638198716</updated>
+    </task>
+    <task id="LOCAL-00025" summary="add taxi simulator">
+      <created>1610647182890</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1610647182890</updated>
+    </task>
+    <task id="LOCAL-00026" summary="reformat code">
+      <created>1610647206787</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1610647206787</updated>
+    </task>
+    <task id="LOCAL-00027" summary="add Lyrics and os_demos">
+      <created>1611128363851</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1611128363852</updated>
+    </task>
+    <task id="LOCAL-00028" summary="add exception handling">
+      <created>1611128620756</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1611128620756</updated>
+    </task>
+    <task id="LOCAL-00029" summary="rename files">
+      <created>1611156089700</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1611156089700</updated>
+    </task>
+    <task id="LOCAL-00030" summary="reformat code">
+      <created>1611156128367</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1611156128367</updated>
+    </task>
+    <task id="LOCAL-00031" summary="add cleanup_files">
+      <created>1611210339652</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1611210339652</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -366,7 +446,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="file added" />
     <MESSAGE value="modify price limit and price movements" />
     <MESSAGE value="Add password check program" />
     <MESSAGE value="delete password_checker.py" />
@@ -383,8 +462,16 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="complete TODO" />
     <MESSAGE value="add quick_picks.py" />
+    <MESSAGE value="add fare" />
+    <MESSAGE value="update get_fare" />
+    <MESSAGE value="fix typo" />
+    <MESSAGE value="add taxi simulator" />
+    <MESSAGE value="add Lyrics and os_demos" />
+    <MESSAGE value="add exception handling" />
+    <MESSAGE value="rename files" />
     <MESSAGE value="reformat code" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="add cleanup_files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add cleanup_files" />
   </component>
   <component name="WindowStateProjectService">
     <state x="452" y="244" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605170873513">
@@ -399,38 +486,54 @@
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="447" y="147" key="Github.UntrackedFilesDialog/0.23.1440.826@0.23.1440.826" timestamp="1606440996669" />
-    <state width="1358" height="192" key="GridCell.Tab.0.bottom" timestamp="1607072750729">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state width="1398" height="262" key="GridCell.Tab.0.bottom" timestamp="1611212388630">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom/0.-1055.1920.1055/0.0.1440.900@0.0.1440.900" timestamp="1611128397865" />
+    <state width="1398" height="262" key="GridCell.Tab.0.bottom/0.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1611212388630" />
     <state width="1398" height="199" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605897661051" />
     <state width="1358" height="192" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1607072750729" />
     <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1605898547705" />
     <state width="1358" height="249" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1605863358841" />
     <state width="1358" height="192" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1606448941153" />
-    <state width="1358" height="192" key="GridCell.Tab.0.center" timestamp="1607072750728">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state width="1398" height="409" key="GridCell.Tab.0.bottom/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1610646058033" />
+    <state width="1398" height="409" key="GridCell.Tab.0.bottom/1440.25.1920.1055/0.25.1440.815@0.25.1440.815" timestamp="1610649842665" />
+    <state width="1398" height="262" key="GridCell.Tab.0.center" timestamp="1611212388626">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.center/0.-1055.1920.1055/0.0.1440.900@0.0.1440.900" timestamp="1611128397862" />
+    <state width="1398" height="262" key="GridCell.Tab.0.center/0.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1611212388626" />
     <state width="1398" height="199" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605897661049" />
     <state width="1358" height="192" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1607072750728" />
     <state width="1398" height="303" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1605898547704" />
     <state width="1358" height="249" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1605863358840" />
     <state width="1358" height="192" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1606448941152" />
-    <state width="1358" height="192" key="GridCell.Tab.0.left" timestamp="1607072750727">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state width="1398" height="409" key="GridCell.Tab.0.center/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1610646058030" />
+    <state width="1398" height="409" key="GridCell.Tab.0.center/1440.25.1920.1055/0.25.1440.815@0.25.1440.815" timestamp="1610649842664" />
+    <state width="1398" height="262" key="GridCell.Tab.0.left" timestamp="1611212388625">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.left/0.-1055.1920.1055/0.0.1440.900@0.0.1440.900" timestamp="1611128397859" />
+    <state width="1398" height="262" key="GridCell.Tab.0.left/0.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1611212388625" />
     <state width="1398" height="199" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605897661048" />
     <state width="1358" height="192" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1607072750727" />
     <state width="1398" height="303" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1605898547704" />
     <state width="1358" height="249" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1605863358839" />
     <state width="1358" height="192" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1606448941151" />
-    <state width="1358" height="192" key="GridCell.Tab.0.right" timestamp="1607072750728">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state width="1398" height="409" key="GridCell.Tab.0.left/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1610646058028" />
+    <state width="1398" height="409" key="GridCell.Tab.0.left/1440.25.1920.1055/0.25.1440.815@0.25.1440.815" timestamp="1610649842663" />
+    <state width="1398" height="262" key="GridCell.Tab.0.right" timestamp="1611212388628">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.right/0.-1055.1920.1055/0.0.1440.900@0.0.1440.900" timestamp="1611128397863" />
+    <state width="1398" height="262" key="GridCell.Tab.0.right/0.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1611212388628" />
     <state width="1398" height="199" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605897661050" />
     <state width="1358" height="192" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1607072750728" />
     <state width="1398" height="303" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1605898547705" />
     <state width="1358" height="249" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1605863358840" />
     <state width="1358" height="192" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1606448941152" />
+    <state width="1398" height="409" key="GridCell.Tab.0.right/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1610646058031" />
+    <state width="1398" height="409" key="GridCell.Tab.0.right/1440.25.1920.1055/0.25.1440.815@0.25.1440.815" timestamp="1610649842664" />
     <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1605898547706">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
@@ -467,29 +570,52 @@
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="229" y="74" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1606573702938" />
-    <state x="320" y="175" key="Vcs.Push.Dialog.v2" timestamp="1606448048553">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state x="320" y="166" key="Vcs.Push.Dialog.v2" timestamp="1610647442786">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.826@0.23.1440.826" timestamp="1606448048553" />
+    <state x="320" y="166" key="Vcs.Push.Dialog.v2/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1610647442786" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/CP1401practicals$randoms.coverage" NAME="randoms Coverage Results" MODIFIED="1605841484148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
+    <SUITE FILE_PATH="coverage/CP1404practicals$box_layout_demo.coverage" NAME="box_layout_demo Coverage Results" MODIFIED="1609829768115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
+    <SUITE FILE_PATH="coverage/CP1404practicals$programming_language.coverage" NAME="programming_language Coverage Results" MODIFIED="1608285942767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
+    <SUITE FILE_PATH="coverage/CP1404practicals$sliver_service_taxi.coverage" NAME="sliver_service_taxi Coverage Results" MODIFIED="1610637617609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_08" />
     <SUITE FILE_PATH="coverage/CP1404practicals$quick_picks.coverage" NAME="quick_picks Coverage Results" MODIFIED="1607072377608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_04" />
-    <SUITE FILE_PATH="coverage/CP1404practicals$subject_reader.coverage" NAME="subject_reader Coverage Results" MODIFIED="1607069179716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_04" />
     <SUITE FILE_PATH="coverage/CP1401practicals$files.coverage" NAME="files Coverage Results" MODIFIED="1605894367416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
     <SUITE FILE_PATH="coverage/CP1404practicals$lists_warmup.coverage" NAME="lists_warmup Coverage Results" MODIFIED="1607072750713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_04" />
     <SUITE FILE_PATH="coverage/CP1401practicals$string_formatting_examples.coverage" NAME="string_formatting_examples Coverage Results" MODIFIED="1605839522907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
-    <SUITE FILE_PATH="coverage/CP1404practicals$list_exercises.coverage" NAME="list_exercises Coverage Results" MODIFIED="1607070352571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_04" />
-    <SUITE FILE_PATH="coverage/CP1401practicals$exceptions_to_complete.coverage" NAME="exceptions_to_complete Coverage Results" MODIFIED="1605887005021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
+    <SUITE FILE_PATH="coverage/CP1404practicals$sliver_service_taxi_test.coverage" NAME="silver_service_taxi_test Coverage Results" MODIFIED="1610638178112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_08" />
+    <SUITE FILE_PATH="coverage/CP1404practicals$first.coverage" NAME="first Coverage Results" MODIFIED="1610289312673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
     <SUITE FILE_PATH="coverage/CP1401practicals$exceptions_demo.coverage" NAME="exceptions_demo Coverage Results" MODIFIED="1605885525326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
-    <SUITE FILE_PATH="coverage/CP1401practicals$capitalist_conrad.coverage" NAME="capitalist_conrad Coverage Results" MODIFIED="1605883090462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
+    <SUITE FILE_PATH="coverage/CP1404practicals$guitar_test.coverage" NAME="guitar_test Coverage Results" MODIFIED="1608289492781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
     <SUITE FILE_PATH="coverage/CP1404practicals$list_comprehension.coverage" NAME="list_comprehension Coverage Results" MODIFIED="1607071597712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_04" />
     <SUITE FILE_PATH="coverage/CP1401practicals$loops.coverage" NAME="loops Coverage Results" MODIFIED="1605165214778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_01" />
-    <SUITE FILE_PATH="coverage/CP1401practicals$broken_score.coverage" NAME="broken_score Coverage Results" MODIFIED="1606447873313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_03" />
-    <SUITE FILE_PATH="coverage/CP1404practicals$total_income.coverage" NAME="total_income Coverage Results" MODIFIED="1607058938855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_04" />
-    <SUITE FILE_PATH="coverage/CP1401practicals$shop_calculator.coverage" NAME="shop_calculator Coverage Results" MODIFIED="1605170802714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_01" />
-    <SUITE FILE_PATH="coverage/CP1401practicals$password_checker.coverage" NAME="password_checker Coverage Results" MODIFIED="1606444741637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
+    <SUITE FILE_PATH="coverage/CP1404practicals$guitars.coverage" NAME="guitars Coverage Results" MODIFIED="1608290710688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
     <SUITE FILE_PATH="coverage/CP1401practicals$temperatures.coverage" NAME="temperatures Coverage Results" MODIFIED="1606445544552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_03" />
     <SUITE FILE_PATH="coverage/CP1401practicals$sales_bonus.coverage" NAME="sales_bonus Coverage Results" MODIFIED="1605162375854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_01" />
+    <SUITE FILE_PATH="coverage/CP1404practicals$used_cars.coverage" NAME="used_cars Coverage Results" MODIFIED="1608285212497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
+    <SUITE FILE_PATH="coverage/CP1401practicals$randoms.coverage" NAME="randoms Coverage Results" MODIFIED="1605841484148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
+    <SUITE FILE_PATH="coverage/CP1404practicals$hex_colours.coverage" NAME="hex_colours Coverage Results" MODIFIED="1608184969622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_05" />
+    <SUITE FILE_PATH="coverage/CP1404practicals$os_demos.coverage" NAME="os_demos Coverage Results" MODIFIED="1611156023611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_09" />
+    <SUITE FILE_PATH="coverage/CP1404practicals$subject_reader.coverage" NAME="subject_reader Coverage Results" MODIFIED="1607069179716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_04" />
+    <SUITE FILE_PATH="coverage/CP1404practicals$word_occurrences.coverage" NAME="word_occurrences Coverage Results" MODIFIED="1608185902797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_05" />
+    <SUITE FILE_PATH="coverage/CP1404practicals$taxi_test.coverage" NAME="taxi_test Coverage Results" MODIFIED="1610633781901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_08" />
+    <SUITE FILE_PATH="coverage/CP1404practicals$second.coverage" NAME="second Coverage Results" MODIFIED="1608604236774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
+    <SUITE FILE_PATH="coverage/CP1404practicals$dynamic_labels.coverage" NAME="dynamic_labels Coverage Results" MODIFIED="1610592959163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
+    <SUITE FILE_PATH="coverage/CP1404practicals$emails.coverage" NAME="emails Coverage Results" MODIFIED="1608261436929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_05" />
+    <SUITE FILE_PATH="coverage/CP1404practicals$cleanup_files.coverage" NAME="cleanup_files Coverage Results" MODIFIED="1611212388614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_09" />
+    <SUITE FILE_PATH="coverage/CP1404practicals$list_exercises.coverage" NAME="list_exercises Coverage Results" MODIFIED="1608181308517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_04" />
+    <SUITE FILE_PATH="coverage/CP1401practicals$exceptions_to_complete.coverage" NAME="exceptions_to_complete Coverage Results" MODIFIED="1605887005021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
+    <SUITE FILE_PATH="coverage/CP1404practicals$taxi_simulator.coverage" NAME="taxi_simulator Coverage Results" MODIFIED="1610646058017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_08" />
+    <SUITE FILE_PATH="coverage/CP1401practicals$capitalist_conrad.coverage" NAME="capitalist_conrad Coverage Results" MODIFIED="1605883090462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
+    <SUITE FILE_PATH="coverage/CP1404practicals$convert_miles_km.coverage" NAME="convert_miles_km Coverage Results" MODIFIED="1609903179236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
+    <SUITE FILE_PATH="coverage/CP1404practicals$state_names.coverage" NAME="state_names Coverage Results" MODIFIED="1608183096990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_05" />
+    <SUITE FILE_PATH="coverage/CP1401practicals$broken_score.coverage" NAME="broken_score Coverage Results" MODIFIED="1606447873313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_03" />
+    <SUITE FILE_PATH="coverage/CP1404practicals$total_income.coverage" NAME="total_income Coverage Results" MODIFIED="1607058938855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_04" />
+    <SUITE FILE_PATH="coverage/CP1404practicals$squaring.coverage" NAME="squaring Coverage Results" MODIFIED="1609832716701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
+    <SUITE FILE_PATH="coverage/CP1401practicals$shop_calculator.coverage" NAME="shop_calculator Coverage Results" MODIFIED="1605170802714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_01" />
+    <SUITE FILE_PATH="coverage/CP1401practicals$password_checker.coverage" NAME="password_checker Coverage Results" MODIFIED="1606444741637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_02" />
+    <SUITE FILE_PATH="coverage/CP1404practicals$unreliable_car_test.coverage" NAME="unreliable_car_test Coverage Results" MODIFIED="1610613926615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_08" />
+    <SUITE FILE_PATH="coverage/CP1404practicals$dynamic_widgets.coverage" NAME="dynamic_widgets Coverage Results" MODIFIED="1610122300836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
   </component>
 </project>
